@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="140dp">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/itemlist_gambar_barang"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:layout_weight="0.5" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/textNamaBarang"
+        android:gravity="center_vertical|center_horizontal"
+        android:background="#b44242"
+        android:textColor="#ffffff"
+        android:layout_weight="1.5" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/textView16"
+        android:layout_weight="1.7" />
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CekMart</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="banner_add_unit_id">ca-app-pub-8982760833004804/8671086971</string>
+    <string name="facebook_app_id">801722359929754</string>
+    <string name="dialog_exit">Are you sure want to exit?</string>
+    <string name="exit">Exit</string>
+    <string name="cancel">Cancel</string>
+    <string name="fb_share_button">Share</string>
+</resources>
